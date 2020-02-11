@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "12.13.0",
+  "description": "Employee Tracker Homework",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.4",
+    "jason": "^2.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ltuppince/Employee-Tracker.git"
+  },
+  "author": "Lorenzo Tuppince",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ltuppince/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Ltuppince/Employee-Tracker#readme"
+}
